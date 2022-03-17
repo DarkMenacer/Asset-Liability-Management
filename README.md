@@ -15,3 +15,9 @@
    - Last Edit : 17 March 2022
  
 --------------------------------------------------------------------
+## Instructions ##
+
+To follow along the project, please read 'Project Report' file.
+Other files can be skipped altogether as the report is complete, comprehensive and reader-friendly.
+
+---------------------------------------------------------------------
