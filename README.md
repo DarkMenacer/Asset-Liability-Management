@@ -3,8 +3,15 @@
 --------------------------------------------------------------------
 ## Asset Liability Project ##
 
-   Operations Research
-   MATLAB
-   Optimisation
+   - Operations Research
+   - MATLAB
+   - Optimisation
+  
 --------------------------------------------------------------------
+## Logs ##
 
+   - Created : 20 December 2022
+   - Published : 15 March 2022
+   - Last Edit : 17 March 2022
+ 
+--------------------------------------------------------------------
